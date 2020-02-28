@@ -115,7 +115,6 @@ void display(void)
 	//WindowRightvertical
 	ddaLine(120,  40+500*tan(0.0436332), 120, 104);
 	
-	
 	glPointSize(1.0);
 	// Axes
 	//ddaLine(-420, 0, 420, 0, cyan);
